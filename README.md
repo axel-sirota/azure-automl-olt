@@ -18,7 +18,7 @@ To make the best use of class time, complete the following instructions ahead of
 
 2. Create an Azure account
 
-    - Go to https://azure.microsoft.com/en-us/free/search/ and click ** Start free ** .
+    - Go to https://azure.microsoft.com/en-us/free/search/ and click **Start free** .
     - You will need to login to your microsoft account (or create one)
     - You’ll need to provide a credit card to sign up.
     - Select the Free Subscription.
@@ -26,29 +26,29 @@ To make the best use of class time, complete the following instructions ahead of
     
 3. Create an ML workspace
 
-    - On the top Search Bar type: `Machine Learning` and click the resource saying ** Machine Learning ** with an erlenmeyer icon
-    - Click on **Create Machine Learning workspace ** 
-    - Under Resource Group click create new and type a name. For example, auto-ml-olt.
-    - On workspace name type something unique. For example, auto-ml-olt-0001 (use random digits)
-    - Click Review and Create and further on, click Create
+    - On the top Search Bar type: `Machine Learning` and click the resource saying **Machine Learning** with an erlenmeyer icon
+    - Click on **Create Machine Learning workspace** 
+    - Under Resource Group click **create new** and type a name. For example, `auto-ml-olt`.
+    - On workspace name type something unique. For example, `auto-ml-olt-0001` (use random digits)
+    - Click **Review and Create** and further on, click **Create**
 
 Now click on Go to Resource and later on, Launch Studio.
 
 4. Create the Compute instance for the notebooks.
 
-    - On the left panel of the Studio, click on Compute > New
-    - Go with the recommended options and click Next
-    - Type a name, for example, auto-ml-instance001 (use random digits for it to be unique)
-    - Click on Create and wait for 5-10 minutes.
+    - On the left panel of the Studio, click on **Compute > New**
+    - Go with the recommended options and click **Next**
+    - Type a name, for example, `auto-ml-instance001` (use random digits for it to be unique)
+    - Click on **Create**, and wait for 5-10 minutes.
     - Once the instance is Running, click on it and Stop it. This is extremely important such that it only runs during the training and you are not being overcharged.
 
 5. Create the compute cluster for the training
 
-    - On the top panel, next to Compute Instance, ylu will find and click Compute Cluster.
-    - Click on New > Next
-    - Type a cluster name like: azutoml-cluster
+    - On the top panel, next to Compute Instance, you will find and click **Compute Cluster**.
+    - Click on **New > Next**
+    - Type a cluster name like: `azutoml-cluster`
     - Set the maximum number of nodes to 2
-    - Click on Create
+    - Click on **Create**
 
 You are ready for the course!!!
 
