@@ -54,4 +54,3 @@ You are ready for the course!!!
 
 Estimated cost for the training: 5 hours * ( 0.29 USD/hour * 3 instances ) = USD 4.40
 
-

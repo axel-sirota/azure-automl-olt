@@ -1,0 +1,14 @@
+pandas
+requests
+numpy
+jupyter
+sklearn
+matplotlib
+azureml
+azureml-core
+azureml-train-automl
+azureml-explain-model
+azureml-interpret
+
+# Install first numpy and sklearn like this:
+# pip install --no-cache-dir numpy==1.19.5 && pip install --no-cache-dir -r requirements.txt
