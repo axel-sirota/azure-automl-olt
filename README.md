@@ -46,7 +46,7 @@ Now click on Go to Resource and later on, Launch Studio.
 
     - On the top panel, next to Compute Instance, you will find and click **Compute Cluster**.
     - Click on **New > Next**
-    - Type a cluster name like: `azutoml-cluster`
+    - Type a cluster name like: `automl-cluster`
     - Set the maximum number of nodes to 2
     - Click on **Create**
 
